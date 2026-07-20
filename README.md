@@ -1,5 +1,7 @@
 # Energie & Huis Dashboard voor Home Assistant
 
+![Dashboard](docs/screenshot.png)
+
 Een dashboard in een strakke kaartenstijl: zonnepanelen, thuisbatterijen, dynamische
 energieprijzen, netwerkdata, watermeter, slimme sloten en binnenklimaat. Allemaal
 dezelfde bouwstenen met kleurcodering (groen = goed/actief, oranje = let op, rood =
